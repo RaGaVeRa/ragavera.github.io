@@ -2,23 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.dimowner.audiorecorder.debug",
-    "sha256_cert_fingerprints":
-    ["71:A6:EF:5B:9B:38:AD:2F:6F:E3:E4:71:6D:B5:ED:8B:F4:DF:D6:96:4E:21:FE:9A:50:5B:7E:CB:55:32:D9:1A"]
-  }
-},
-{
-  "relation": ["delegate_permission/common.get_login_creds"],
-  "target": {
-    "namespace": "web",
-    "site": "https://ragavera.github.io"
-  }
-},
-{
-  "relation": ["delegate_permission/common.get_login_creds"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.dimowner.audiorecorder.debug",
+    "package_name": "com.ragavera.vaaksangrahak.debug",
     "sha256_cert_fingerprints":
     ["71:A6:EF:5B:9B:38:AD:2F:6F:E3:E4:71:6D:B5:ED:8B:F4:DF:D6:96:4E:21:FE:9A:50:5B:7E:CB:55:32:D9:1A"]
   }
